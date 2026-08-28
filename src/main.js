@@ -1,0 +1,1 @@
+document.querySelector("#app").innerHTML = "<h1>Hello Space Explorer! 🚀</h1>";
